@@ -1,12 +1,12 @@
 # web-scraping-challenge
 
 
-##MISSION TO MARS
+## MISSION TO MARS
 
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
 
 
-##Step 1 - Scraping
+## Step 1 - Scraping
 Complete your initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
 Create a Jupyter Notebook file called mission_to_mars.ipynb and use this to complete all of your scraping and analysis tasks. The following outlines what you need to scrape.
@@ -51,7 +51,7 @@ hemisphere_image_urls = [
     {"title": "Syrtis Major Hemisphere", "img_url": "..."},
 ]
 
-##Step 2 - MongoDB and Flask Application
+## Step 2 - MongoDB and Flask Application
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
 Start by converting your Jupyter notebook into a Python script called scrape_mars.py with a function called scrape that will execute all of your scraping code from above and return one Python dictionary containing all of the scraped data.
@@ -65,7 +65,7 @@ Create a template HTML file called index.html that will take the mars data dicti
 
 final_app_part1.pngfinal_app_part2.png
 
-##Step 3 - Submission
+## Step 3 - Submission
 
 
 ![appImage1](https://raw.githubusercontent.com/Robert-W2019/web-scraping-challenge/main/Mission_to_Mars/appScreenshots/App1.JPG)
