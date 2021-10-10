@@ -66,6 +66,8 @@ Create a template HTML file called index.html that will take the mars data dicti
 final_app_part1.pngfinal_app_part2.png
 
 ##Step 3 - Submission
-![appImage1] (https://raw.githubusercontent.com/Robert-W2019/web-scraping-challenge/main/Mission_to_Mars/appScreenshots/App1.JPG)
-![appImage2] (https://raw.githubusercontent.com/Robert-W2019/web-scraping-challenge/main/Mission_to_Mars/appScreenshots/App2.JPG)
-![appImage3-Rescraped] (https://raw.githubusercontent.com/Robert-W2019/web-scraping-challenge/main/Mission_to_Mars/appScreenshots/appAfterClickingScrapeNewData.JPG)
+
+
+![appImage1](https://raw.githubusercontent.com/Robert-W2019/web-scraping-challenge/main/Mission_to_Mars/appScreenshots/App1.JPG)
+![appImage2](https://raw.githubusercontent.com/Robert-W2019/web-scraping-challenge/main/Mission_to_Mars/appScreenshots/App2.JPG)
+![appImage3-Rescraped](https://raw.githubusercontent.com/Robert-W2019/web-scraping-challenge/main/Mission_to_Mars/appScreenshots/appAfterClickingScrapeNewData.JPG)
